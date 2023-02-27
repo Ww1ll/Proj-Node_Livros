@@ -24,6 +24,7 @@ No arquivo json, configurei o script para que a aplicação pudesse rodar direta
 
 <hr>
   Print da aplicação funcionando <br>
+  
  ![image](https://user-images.githubusercontent.com/109118303/221659237-443ecf0f-e39e-4e1f-a3c5-63e62894bbf1.png) 
 
 <hr>
